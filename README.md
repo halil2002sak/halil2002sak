@@ -51,7 +51,6 @@
 
 ## 🧠 Basit bir “SynChap” akış diyagramı (Mermaid)
 
-```mermaid
 flowchart TD
     A[Hafta içi iş] --> B[Boş zaman]
     B --> C[Vibe coding]
@@ -60,7 +59,6 @@ flowchart TD
     D -->|Full‑stack| F[TypeScript + Node.js]
     D -->|AI| G[Agent + LLM entegrasyonları]
     G --> H[Otomasyon ve denemeler]
-```
 
 ---
 
