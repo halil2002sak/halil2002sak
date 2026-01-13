@@ -1,26 +1,24 @@
+sadece readme içerik ver bana.
+
 <h1 align="center">🧠 Halil / SynChap</h1>
-<h3 align="center">Garson by day • Developer by night</h3>
+<h3 align="center">Garson by day -  Developer by night</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=22C55EFF&center=true&vCenter=true&width=620&lines=TypeScript+%26+JavaScript+ile+vibe+coding;AI+ile+pair+programming;Hafta+sonu+full+stack+deneyleri" alt="typing animation" />
 </p>
 
----
+***
 
 ## 🧩 Hızlı Özet
 
-<ul>
-  <li>🍽 Gündüz: restaurant server</li>
-  <li>💻 Gece: full‑stack web + AI denemeleri</li>
-  <li>🎨 Logo, tasarım ve canlı yayın meraklısı</li>
-  <li>🧪 AI agent, context ve otomasyon deneycisi</li>
-</ul>
+- 🍽 Gündüz: restaurant server  
+- 💻 Gece: full‑stack web + AI denemeleri  
+- 🎨 Logo, tasarım ve canlı yayın meraklısı  
+- 🧪 AI agent, context ve otomasyon deneycisi  
 
----
+***
 
 ## 🛠 Kullandığım Teknolojiler
-
-<div align="center">
 
 <table>
   <tr>
@@ -45,67 +43,75 @@
   </tr>
 </table>
 
+***
+
+## 🎛 “SynChap Runtime” (HTML + code vibes)
+
+```html
+<div class="synchap-runtime">
+  <header>
+    <h2>SynChap Runtime</h2>
+    <span>online</span>
+  </header>
+
+  <main>
+    <section>
+      <h3>Mode</h3>
+      <p>Weekend full‑stack + AI hacking</p>
+    </section>
+
+    <section>
+      <h3>Focus Stack</h3>
+      <ul>
+        <li>TypeScript / JavaScript</li>
+        <li>React / Next.js</li>
+        <li>Node.js + API entegrasyonları</li>
+      </ul>
+    </section>
+  </main>
 </div>
+```
 
----
+```css
+.synchap-runtime {
+  background: #020617;
+  color: #e5e7eb;
+  padding: 1rem;
+  border-radius: 0.75rem;
+}
 
-## 🎛 “SynChap Runtime” (HTML + CSS vibes)
+.synchap-runtime header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
-<div align="center">
-<table>
-  <tr>
-    <td>
+.synchap-runtime span {
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: #22c55e;
+  color: #022c22;
+  font-size: 0.75rem;
+}
+```
 
-<pre>
-<code>&lt;div class="synchap-runtime"&gt;
-  &lt;header&gt;
-    &lt;h2&gt;SynChap Runtime&lt;/h2&gt;
-    &lt;span class="status online"&gt;online&lt;/span&gt;
-  &lt;/header&gt;
-
-  &lt;main&gt;
-    &lt;section&gt;
-      &lt;h3&gt;Mode&lt;/h3&gt;
-      &lt;p&gt;Weekend full‑stack + AI hacking&lt;/p&gt;
-    &lt;/section&gt;
-
-    &lt;section&gt;
-      &lt;h3&gt;Focus Stack&lt;/h3&gt;
-      &lt;ul&gt;
-        &lt;li&gt;TypeScript / JavaScript&lt;/li&gt;
-        &lt;li&gt;React / Next.js&lt;/li&gt;
-        &lt;li&gt;Node.js + API entegrasyonları&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/section&gt;
-  &lt;/main&gt;
-&lt;/div&gt;
-</code>
-</pre>
-
-  </td>
-  </tr>
-</table>
-</div>
-
----
+***
 
 ## 📈 GitHub aktiviteleri
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=halil2002sak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=halil2002sak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halil2002sak&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halil2002sak&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=halil2002sak&theme=tokyonight" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halil2002sak&layout=compact&theme=tokyonight" alt="Top Langs" />
-
-</div>
-
----
+***
 
 ## 🔗 Linkler
 
@@ -113,7 +119,7 @@
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/halil2002sak">linkedin.com/in/halil2002sak</a>  
 - 🎥 SynChap olarak online içerikler  
 
----
+***
 
 <details>
   <summary>💡 Küçük “dev notu” (JavaScript vibes)</summary>
@@ -125,3 +131,7 @@ const mood = "vibe coding";
 weekend.forEach(day => {
   console.log(`${day}: ${mood} time 🚀`);
 });
+```
+
+</details>
+
