@@ -49,16 +49,43 @@
 
 ---
 
-## 🧠 Basit bir “SynChap” akış diyagramı (Mermaid)
+## 🎛 “SynChap Runtime” (HTML + CSS vibes)
 
-flowchart TD
-    A[Hafta içi iş] --> B[Boş zaman]
-    B --> C[Vibe coding]
-    C --> D{Projeler}
-    D -->|Web| E[HTML + CSS + JS]
-    D -->|Full‑stack| F[TypeScript + Node.js]
-    D -->|AI| G[Agent + LLM entegrasyonları]
-    G --> H[Otomasyon ve denemeler]
+<div align="center">
+<table>
+  <tr>
+    <td>
+
+<pre>
+<code>&lt;div class="synchap-runtime"&gt;
+  &lt;header&gt;
+    &lt;h2&gt;SynChap Runtime&lt;/h2&gt;
+    &lt;span class="status online"&gt;online&lt;/span&gt;
+  &lt;/header&gt;
+
+  &lt;main&gt;
+    &lt;section&gt;
+      &lt;h3&gt;Mode&lt;/h3&gt;
+      &lt;p&gt;Weekend full‑stack + AI hacking&lt;/p&gt;
+    &lt;/section&gt;
+
+    &lt;section&gt;
+      &lt;h3&gt;Focus Stack&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;TypeScript / JavaScript&lt;/li&gt;
+        &lt;li&gt;React / Next.js&lt;/li&gt;
+        &lt;li&gt;Node.js + API entegrasyonları&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/section&gt;
+  &lt;/main&gt;
+&lt;/div&gt;
+</code>
+</pre>
+
+  </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -89,7 +116,7 @@ flowchart TD
 ---
 
 <details>
-  <summary>💡 Küçük “dev notu” (JS vibes)</summary>
+  <summary>💡 Küçük “dev notu” (JavaScript vibes)</summary>
 
 ```js
 const weekend = ["Cumartesi", "Pazar"];
@@ -98,6 +125,3 @@ const mood = "vibe coding";
 weekend.forEach(day => {
   console.log(`${day}: ${mood} time 🚀`);
 });
-```
-
-</details>
