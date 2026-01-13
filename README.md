@@ -1,5 +1,3 @@
-kod bloklarını kaldir.
-
 <h1 align="center">🧠 Halil / SynChap</h1>
 <h3 align="center">Garson by day -  Developer by night</h3>
 
