@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Otizmli-Ve%20Gururlu-%2300D4FF?style=for-the-badge&labelColor=1a1a2e" alt="Autistic and Proud" />
-  <img src="https://img.shields.io/badge/Vibe%20Coder-⚡-brightgreen?style=for-the-badge&labelColor=1a1a2e&color=00FF88" alt="Vibe Coder" />
+  <img src="https://img.shields.io/badge/AI%20Destekli-🤝%20Kodluyorum-%2300FF88?style=for-the-badge&labelColor=1a1a2e" alt="AI Destekli" />
   <img src="https://img.shields.io/badge/AI%20Native-Yapay%20Zeka%20ile%20Kodluyorum-%23FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="AI Native" />
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>Otizmli</b> biriyim ve bunu bir <b>engel değil, farklı bir bakış açısı</b> olarak görüyorum. 🧩<br />
-  Yapay zeka yardımıyla (<i>vibe coding 🎧</i>) yazılım geliştirmeye çalışan bir <b>amatörüm</b>. <br /><br />
+  Yapay zeka desteğiyle (<b>DeepSeek V4 Flash</b> + <b>GitHub Copilot Desktop</b> 🚀) yazılım geliştiren bir <b>amatör</b> olarak ilerliyorum. <br /><br />
   Kendi başıma kodlamayı öğrenmekte zorlansam da, en iyi yaptığım işe — <b>iletişime</b> — sarılıyorum:<br />
   💡 <b>Fikirler</b> benim tarafımdan geliyor, 🤖 <b>kod</b> AI tarafından yazılıyor.
 </p>
@@ -25,22 +25,21 @@
 
 ---
 
-<h2 align="center">🧰 Vibe Coding Stack'im</h2>
+<h2 align="center">🧰 AI Stack'im</h2>
 
 <p align="center">
-  <b>🎤 Prompt → 💻 Code → 🚀 Ship</b>
+  🎯 <b>Fikir Ver → AI Kodlasın → Test Et → Düzelt → Paylaş</b> 🎯
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-Sonnet%204-%23FF6600?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-4o-%23412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-Aktif-%2300D4FF?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-V4%20Flash-%234A90E2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzIgMEMxNC4zMjcgMCAwIDE0LjMyNyAwIDMyYzAgMTcuNjczIDE0LjMyNyAzMiAzMiAzMnMzMi0xNC4zMjcgMzItMzJDNjQgMTQuMzI3IDQ5LjY3MyAwIDMyIDB6bTAgNThjLTE0LjM1OSAwLTI2LTExLjY0MS0yNi0yNnMxMS42NDEtMjYgMjYtMjYgMjYgMTEuNjQxIDI2IDI2LTExLjY0MSAyNi0yNiAyNnoiLz48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-Desktop-%2300D4FF?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-Editor-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-Version%20Kontrol-%23F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
-  ⚡ <b>Fikir Anlat → AI Yazsın → Test Et → Düzelt → Paylaş</b> ⚡
+  <i>🎯 Hedef: Anlatabildiğim kadar iyi, kodlayabildiğim kadar AI.</i>
 </p>
 
 ---
